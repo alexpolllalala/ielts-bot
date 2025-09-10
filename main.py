@@ -6,8 +6,8 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
 
 # =============== CONFIG ===============
-TOKEN = os.getenv("BOT_TOKEN")  # 🔑 Твій Telegram Bot Token (вставити у Replit Secrets)
-CHAT_ID = os.getenv("CHAT_ID")  # 🔑 Твій chat_id (для авто-розсилки)
+TOKEN = os.getenv("8212213442:AAEmhJXvUl91-CJ8xCQ_PZOjw9tfrcUw1-o")  # 🔑 Твій Telegram Bot Token (вставити у Replit Secrets)
+CHAT_ID = os.getenv("1000859384")  # 🔑 Твій chat_id (для авто-розсилки)
 SEND_HOUR = 19  # година відправки завдання
 # =====================================
 
