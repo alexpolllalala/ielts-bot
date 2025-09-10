@@ -13,7 +13,7 @@ logger = logging.getLogger(__name__)
 
 # ====== НАЛАШТУВАННЯ ======
 # Встав свій токен сюди або встанови змінну середовища BOT_TOKEN
-TOKEN = "ВСТАВ_СЮДИ_СВІЙ_TOKEN"
+TOKEN = "8212213442:AAEmhJXvUl91-CJ8xCQ_PZOjw9tfrcUw1-o"
 # Дата старту курсу — можеш змінити (YYYY, M, D)
 START_DATE = date(2025, 9, 10)
 # Файли для збереження підписників
